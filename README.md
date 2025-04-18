@@ -12,7 +12,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ## 📊 Статистика:
-![](https://nirzak-streak-stats.vercel.app/?user=daydreamonly&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daydreamonly&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=daydreamonly&theme=dark&hide_border=false" />
+</div>
 
 ## 📲 Контакты:
 - Telegram: [@andrewnim](https://t.me/andrewnim)
