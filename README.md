@@ -12,7 +12,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=000)
 ![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=fff)
 
-🧩 Изучаю: 
+### 🧩 Изучаю: 
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=000)
 
 ---
