@@ -13,7 +13,6 @@
 
 ## 📊 Статистика:
 ![](https://nirzak-streak-stats.vercel.app/?user=daydreamonly&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=daydreamonly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 📲 Контакты:
 - Telegram: [@andrewnim](https://t.me/andrewnim)
